@@ -1,0 +1,19 @@
+.container {
+	width: 1140px;
+	margin: 0 auto;
+	text-align: center;
+}
+.bigButton {
+	padding: 100px;
+	color: #fff;
+	background-color: #1bc6b2;
+	margin: 0 auto;
+	left: 50%;
+	transform: translate(-50%, 0);
+	border: 0;
+	border-radius: 6px;
+	box-shadow: 1px 1px 3px #333;
+	font-size: 50px;
+	position: fixed;
+	text-shadow: 1px 1px 1px #333;
+}
